@@ -5,7 +5,7 @@ basic.forever(function () {
             # # # # #
             # # # # #
             # # # # #
-            # # # # .
+            # # # # #
             `)
     }
     if (input.soundLevel() > 40) {
